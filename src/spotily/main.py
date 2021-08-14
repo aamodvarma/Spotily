@@ -7,8 +7,8 @@ from datetime import datetime
 
 # Declarationof important variables
 
-client_id = "a10c32b0e8874c7e90984cb15053dbc1"
-client_secret = "1cb585f9b30a486da168170f2d8183b9"
+client_id = ""
+client_secret = ""
 clientc = f"{client_id}:{client_secret}"
 b64 = base64.b64encode(clientc.encode()).decode()
 redirect_uri = "http://localhost/"
