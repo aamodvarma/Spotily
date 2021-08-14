@@ -8,8 +8,8 @@ import main
 import os
 song = main.main()
 
-client_id = "hssdkAioHJca8N9wG5f46-2uAt3QS8jiAPqBiOfRuPDYNHsZbloFZnt0jndal82H"
-client_secret = "CXhGMlSZXvHl2N-NSehY-roBmkfKQFFA4sm1WaVJipHWW_wjQ9HEA6kzzowkVBuAwKhB_nsyaBaEZKmN5wBb7Q"
+client_id = ""
+client_secret = ""
 
 def authoriza(cid, csec):
     redirect_url = "http://localhost/"
